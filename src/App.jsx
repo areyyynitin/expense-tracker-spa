@@ -73,7 +73,7 @@ function App() {
   return (
   <div className="bg-[#494736] min-h-screen w-full">
     <div className="p-6 max-w-2xl mx-auto text-white  min-h-screen">
-      <h1 className="text-3xl font-bold mb-6 text-center">Expense Tracker</h1>
+      <h1 className="text-3xl font-bold mb-6 text-center">Income and Expense Tracker </h1>
 
       <div className="mb-4">
         <h2 className="text-2xl font-semibold">Total Balance: ₹{totalBalance}</h2>
